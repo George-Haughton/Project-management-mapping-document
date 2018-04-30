@@ -27,6 +27,12 @@ I am going to be talking about my Capstone project which was to design, develop 
 
 5. Within unity i will create a professional looking timer that will be placed in a visable place on the game screen. This timer will immediately start as the player starts the level and will end when the player completes the level. This timer will available at the main menu within a tab called 'previous runs' so the player can see how long it took them and to aim to beat it next time. Finally, i will also need to create a database that will harbour these run times of the player's. When i have a timer that times the players run correctly and a database that holds these times this objective will be complete.
 
+### Project management plan
+
+Scrum is a framework/way of addressing hard problems to overcome and adapt to a complex criteria or problem while still being able to provide a high standard of work or product. It helps groups, individuals and businesses to work on complex problems or team collaboration within a join goal, such as creating and application. An advantages of Scrum is that it is easy to understand and get to grips with but a disadvantage is that it can be difficult to master.
+
+Within this project i will be using scrum to break down my project into smaller more managable pieces that i can more easily handle and complete, while still holding up a high standard for my project.
+
 
 
 
