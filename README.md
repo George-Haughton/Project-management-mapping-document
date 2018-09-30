@@ -83,7 +83,3 @@ As we did not charge our first client there were only a few consequences/risks t
 
 ### 2.8 Resources
 As explain within the Cost (1.1) section we used various tools, techniques and software to make sure we did not displease our client. For instance we used Microsoft Office (Word, Powerpoint, google docs) to complete our documentation and to produce our powerpoint we used to show ZSL our ideas and concept art. We used our interent access to research everything we needed to know about the age ranges (11-16 year olds) that would using/playing our app/game. We used Unity to create the core game mechanics of the game/app. In addition to this we used Adobe photoshop to create our images and concept art for our game/app. The last resource and arguably the most imporant one were the systems we used. This consisted of the computers we used at college and my home computer, which i speak more about in Costs (1.1). These systems were the back bone of our whole project and may not have even been able to start the project if we did not have systems like this that harboured the power and system specifications that we needed to complete this project.
-
-
-
-
